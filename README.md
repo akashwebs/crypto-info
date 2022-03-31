@@ -1,6 +1,6 @@
 # Crypto info
 
- [LIVE SITE](https://ephemeral-cat-b8c3fd.netlify.app/).
+ # [LIVE SITE](https://ephemeral-cat-b8c3fd.netlify.app/).
 
 ## Available Scripts
 >tailwind
